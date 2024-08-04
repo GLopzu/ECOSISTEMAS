@@ -1,0 +1,29 @@
+.App {
+  text-align: center;
+}
+
+.anime-grid {
+  display: grid;
+  grid-template-columns: repeat(8, 1fr);
+  grid-gap: 20px;
+  padding: 20px;
+}
+
+.anime-card {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 10px;
+  text-align: center;
+}
+
+.anime-card img {
+  max-width: 100%;
+  height: auto;
+  border-bottom: 1px solid #ddd;
+  margin-bottom: 10px;
+}
+
+.error-message {
+  color: red;
+  margin-top: 20px;
+}
