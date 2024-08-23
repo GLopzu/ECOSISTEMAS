@@ -1,5 +1,7 @@
-ECOSISTEMAS
-1. FETCHING FREE APIS
-2. FETCHING +GET,POST, DELETE
-3. THINKING STRATEGICALLY
-4. ECOgram
+Npm i en los clientes y servidor para node modules.
+
+node server/index.js en el servidor
+
+npm run dev en los clientes
+
+! NO BORRAR CARPETA UPLOADS
