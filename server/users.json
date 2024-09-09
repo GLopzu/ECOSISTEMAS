@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "name": "pedro",
+    "role": "PENDING"
+  },
+  {
+    "id": 2,
+    "name": "pepe",
+    "role": "PENDING"
+  },
+  {
+    "id": 3,
+    "name": "juan",
+    "role": "PENDING"
+  },
+  {
+    "id": 4,
+    "name": "pepepe",
+    "role": "PENDING"
+  },
+  {
+    "id": 5,
+    "name": "jogo",
+    "role": "PENDING"
+  },
+  {
+    "id": 6,
+    "name": "mini",
+    "role": "PENDING"
+  },
+  {
+    "id": 7,
+    "name": "juan1",
+    "role": "PENDING"
+  },
+  {
+    "id": 8,
+    "name": "juan2",
+    "role": "PENDING"
+  },
+  {
+    "id": 9,
+    "name": "juan3",
+    "role": "PENDING"
+  }
+]
